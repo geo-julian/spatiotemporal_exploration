@@ -1,0 +1,19 @@
+{
+    "convergence_data_dir" : "./convergence_data/Clennett/",
+    "coreg_input_dir" : "./coreg_input/Clennett/",
+    "regions" : [5, 10, 30],
+    "region_of_interest_polygon_file" : "../data/polygon_north_america.csv",
+
+    "time" : {
+        "start" : 0,
+        "end"   : 170,
+        "step"  : 1
+    },
+    "rotation_files" : ["../data/2019_v2_Clennett/*.rot"],
+    "topology_files" : ["../data/2019_v2_Clennett/*.gpml"],  
+    "static_polygons_file" : "../data/Shapefiles/StaticPolygons/Global_EarthByte_GPlates_PresentDay_StaticPlatePolygons_2015_v1.shp",
+    "coreg_input_files" : ["deposit_candidates.csv",  "negative_deposits.csv",  "positive_deposits.csv"],
+    "coastlines" :  "../data/2019_v2_Clennett/Clennett_2019_Coastlines.gpml", 
+    "grid_files" : [],
+    "terranes" : "../data/2019_v2_Clennett/Clennett_2019_Terranes.gpml"
+}
