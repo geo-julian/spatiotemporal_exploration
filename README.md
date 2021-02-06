@@ -4,7 +4,7 @@ Code repository for **Predicting the emplacement of Cordilleran porphyry copper 
 
 Authors:
 
-[Julian Diaz Rodriguez](https://github.com/geo-julian) (corresponding author julian.diazrodriguez@sydney.edu.au) (1)
+[Julian Diaz Rodriguez](https://github.com/geo-julian) (corresponding author jdia2130@uni.sydney.edu.au) (1)
 [Dietmar Muller](https://github.com/dietmarmuller) (1)
 [Rohitash Chandra](https://github.com/rohitash-chandra) (1,2)
 
