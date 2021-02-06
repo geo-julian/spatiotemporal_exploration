@@ -1,8 +1,6 @@
 # Spatio-Temporal Exploration 
 
-Code repository for **Developing Deep Time Spatio-Temporal Machine Learning Model as a Mineral Exploration Tool**.
-
-(insert link to article)
+Code repository for **Predicting the emplacement of Cordilleran porphyry copper systems using a spatio-temporal machine learning model**.
 
 Authors:
 
