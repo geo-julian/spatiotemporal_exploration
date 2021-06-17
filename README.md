@@ -66,6 +66,8 @@ Maps were created using [ArcMap](https://desktop.arcgis.com/en/arcmap/) and the 
 We thank [Dr. Daniel Müller](https://www.researchgate.net/profile/Daniel-Mueller-44) and three anonymous reviewers for their helpful comments on earlier drafts of the manuscript. We thank [Dr. Sara Moron](https://www.linkedin.com/in/sara-mor%C3%B3n-18a25a73/) for her suggestions and support while drafting the manuscript. We thank [Dr. Nathan Butterworth](https://www.linkedin.com/in/nathaniel-butterworth-72003877/) for his support in early stages of this research. We thank [Mrs. Ana Juliana Villa](https://www.linkedin.com/in/ana-villa/) for her support in developing the figures. Finally, we thank [Mr. Danial Azam](https://github.com/Dazaman) and [Mr. Michael Chin](https://github.com/michaelchin) for their technical assistance.
 
 
+Access EndNote library [Here](https://github.com/geo-julian/spatiotemporal_exploration/tree/main/python/EndNote_Library)
+
 
 
 
