@@ -1,5 +1,8 @@
 # Spatio-Temporal Exploration 
 
+![image](https://user-images.githubusercontent.com/72196131/122372834-2658c180-cfa0-11eb-9928-6b59b1d565aa.png)
+
+
 Code repository for [**Predicting the emplacement of Cordilleran porphyry copper systems using a spatio-temporal machine learning model.**](https://authors.elsevier.com/sd/article/S0169-1368(21)00326-7)
 
 Authors:
